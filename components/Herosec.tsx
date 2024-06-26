@@ -29,7 +29,6 @@ const Herosec = () => {
             md:max-w-2xl
             lg:max-w-[60vw]
             flex flex-col items-center justify-center'>
-                <h2 className='uppercase tracking-wides text-xs text-center text-blue-100 max-w-80'>Dynamic Web magic using Next.JS</h2>
                 <TextGenerateEffect
                 className='text-center text-[40px]
                 md: text-3xl
