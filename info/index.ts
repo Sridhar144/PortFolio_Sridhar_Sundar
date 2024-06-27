@@ -200,16 +200,19 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-      name: "Github"
+      name: "Github",
+      ref: "https://www.github.com/Sridhar144/"
     },
     {
       id: 2,
       img: "/insta.svg",
-      name: "Instragram"
+      name: "Instragram",
+      ref: "https://www.instagram.com/sridharr_4/"
     },
     {
       id: 3,
       img: "/link.svg",
-      name: "LinkedIN"
+      name: "LinkedIN",
+      ref: "https://www.linkedin.com/in/sridhar-sundar-218905256/"
     },
   ];
