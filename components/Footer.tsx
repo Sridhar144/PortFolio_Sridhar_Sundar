@@ -12,10 +12,10 @@ const Footer = () => {
         </div>
         <div className='flex flex-col items-center'>
             <h1 className='heading lg:max-w-[45vw]'>
-                Ready to take <br />
-                <span className='text-blue-400'>  your digital experience</span> to the next level?!
+                Ready to contact and <br />
+                <span className='text-blue-400'> forge a collaboaration with me?</span>?!
             </h1>
-            <p className='text-white-200 md:mt-10 my-5 text-center'>React out to me and let&apos;s figure out how to step up and help you acheive your goals</p>
+            <p className='text-white-200 md:mt-10 my-5 text-center'>Then what are you waiting for!! Reach out to me and let&apos;s </p>
             <a href="mailto:sridharsundar100@gmail.com">
                 <Button
                 title='Lets get in touch!'
